@@ -1,3 +1,3 @@
 Name,Functions,Inputs,Outputs,Parameters,Comments,Version,Language,Dependency
-Plugin,调用自定义的工具或脚本,需要处理的数据,用户自定义的命令或脚本,处理后的数据,NULL,从STDIN读取数据结果写入STDOUT,0.17,Python2.7,NULL
+Plugin,调用自定义的工具或脚本,需要处理的数据/用户自定义的命令或脚本,处理后的数据,NULL,从STDIN读取数据结果写入STDOUT,0.17,Python2.7,NULL
 CMD,执行linux自带的流处理命令,要处理的数据,处理后的数据,自定义的处理命令,可以通过管道连接,0.2,Python2.7,NULL
