@@ -1,0 +1,23 @@
+{
+    "Name": "CMD",
+    "Description": "run a command",
+    "Version": "0.2",
+    "CategoryTags": ["Basic"],
+    "Cmd": "python main.py",
+    "Param": {
+	"CMD": {
+	    "Default": "",
+	    "Type": "string"
+	}
+    },
+    "Input": {
+        "IN": [
+            "any"
+        ]
+    },
+    "Output": {
+        "OUT": [
+            "any"
+        ]
+    }
+}

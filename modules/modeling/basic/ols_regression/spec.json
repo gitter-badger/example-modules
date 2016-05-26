@@ -1,0 +1,25 @@
+{
+    "Name": "OLS_Regression",
+    "Description": "OLS Regression Model",
+    "Version": "0.2",
+    "CategoryTags": [
+        "Machine"
+    ],
+    "Cmd": "python main.py",
+    "Param": {
+        "Formula": {
+            "Default": "",
+            "Type": "string"
+        }
+    },
+    "Input": {
+        "IN": [
+            "csv"
+        ]
+    },
+    "Output": {
+        "Results": [
+            "txt"
+        ]
+    }
+}

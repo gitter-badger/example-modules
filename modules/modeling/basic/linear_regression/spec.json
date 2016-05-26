@@ -1,0 +1,25 @@
+
+{
+    "Name": "Linear_Regression",
+    "Description": " LinearRegression Model",
+    "Version": "0.2",
+    "CategoryTags": ["Machine"],
+    "Cmd": "python main.py",
+    "Param": {},
+    "Input": {
+        "IN": [
+            "csv"
+        ]
+    },
+    "Output": {
+        "Residuals_1": [
+            "png"
+        ],
+        "Residuals_2": [
+            "png"
+        ],
+        "Coefficient": [
+            "csv"
+        ]
+    }
+}

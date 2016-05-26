@@ -1,0 +1,27 @@
+{
+    "Name": "build_model",
+    "Description": "train a nativebayes model",
+    "Version": "0.1",
+    "CategoryTags": ["Basic"],
+    "Cmd": "python main.py",
+    "Param": {
+        "times": {
+            "Default": "",
+            "Type": "float"
+        },
+        "ratio": {
+            "Default": "",
+            "Type": "float"
+        }
+    },
+    "Input": {
+        "datafile": [
+            "csv"
+        ]
+    },
+    "Output": {
+        "modelname": [
+            "pkl"
+        ]
+    }
+}

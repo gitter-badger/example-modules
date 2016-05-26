@@ -1,0 +1,6 @@
+Name,Functions,Inputs,Outputs,Parameters,Comments,Version,Language,Dependency
+build_model,训练一个NativeBayes模型,样本数据集,模型系数,times:训练次数/ratio:训练集测试集划分比例,生成的模型系数,NUll,0.1,Python2.7,NULL
+NativeBayes,使用NativeBayes方法预测,测试数据集,模型系数,NULL,NILL,0.1,Python2.7,build_model
+Linear_Regression,A LinearRegression Model,样本数据集,预测值与实际值偏差图像/每种属性与预测目标的相关性,NULL,NULL,0.2,Python2.7,CMD
+OLS_Regression,ordinary least squares model,样本数据集,模型信息,NULL,NULL,0.1,Python2.7,NULL
+z-score,数据标准化,样本数据,标准化后的数据,NULL,NULL,0.1,Python2.7,NULL

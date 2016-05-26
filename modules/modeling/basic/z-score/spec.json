@@ -1,0 +1,18 @@
+{
+    "Name": "z-score",
+    "Description": "zero-mean normalization",
+    "Version": "0.1",
+    "CategoryTags": [],
+    "Cmd": "python main.py",
+    "Param": {},
+    "Input": {
+        "IN": [
+            "csv"
+        ]
+    },
+    "Output": {
+        "OUT": [
+            "csv"
+        ]
+    }
+}

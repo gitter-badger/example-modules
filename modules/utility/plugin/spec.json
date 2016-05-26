@@ -1,0 +1,21 @@
+{
+    "Name": "Plugin",
+    "Description": "Load a plug-in by this mod",
+    "Version": "0.17",
+    "CategoryTags": ["Basic"],
+    "Cmd": "python main.py",
+    "Param": {},
+    "Input": {
+        "IN": [
+            "any"
+        ],
+        "PLUGIN": [
+            "plugin"
+        ]
+    },
+    "Output": {
+        "OUT": [
+            "any"
+        ]
+    }
+}

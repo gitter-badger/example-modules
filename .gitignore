@@ -55,3 +55,7 @@ docs/_build/
 # c9
 .c9revisions/
 .settings
+
+# Auto blk
+*~
+*#

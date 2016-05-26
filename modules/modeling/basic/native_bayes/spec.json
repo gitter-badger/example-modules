@@ -1,0 +1,21 @@
+{
+    "Name": "Native_Bayes",
+    "Description": "A NativeBayes by python",
+    "Version": "0.1",
+    "CategoryTags": ["Basic"],
+    "Cmd": "python main.py",
+    "Param": {},
+    "Input": {
+        "datafile": [
+            "csv"
+        ],
+        "model": [
+            "pkl"
+        ]
+    },
+    "Output": {
+        "result": [
+            "csv"
+        ]
+    }
+}
