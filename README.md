@@ -10,3 +10,6 @@ Currently, it contains various modules:
 2. Modules(LinearSVC, Logistic Regression)
 3. EMR Hive
 4. Tutorial
+
+
+[![Join the chat at https://gitter.im/dkuner/example-modules](https://badges.gitter.im/dkuner/example-modules.svg)](https://gitter.im/dkuner/example-modules?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
