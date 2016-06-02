@@ -1,0 +1,27 @@
+{
+    "Name": "Category_Show",
+    "Description": "Show the percentage of categories",
+    "Version": "0.1",
+    "CategoryTags": ["SHOW"],
+    "Cmd": "python main.py",
+    "Param": {
+        "dlt": {
+            "Default": "",
+            "Type": "string"
+        },
+        "columns": {
+            "Default": "",
+            "Type": "float"
+        }
+    },
+    "Input": {
+        "infile": [
+            "csv"
+        ]
+    },
+    "Output": {
+        "outfile": [
+            "png"
+        ]
+    }
+}
